@@ -1,0 +1,51 @@
+<div>
+  <table>
+    <tr>
+      <th> <h1> Education</h1> </th>
+      <th> <h1>Experience</h1> </th>
+      <th> <h1>Skill</h1> </th>
+  </tr>
+    <tr>
+      <td> Highschool Diploma <br>Infinity Institute/td>
+      <td> Efficient with sofwares</td>
+      <td> Communication skills</td>
+  </tr>
+    <tr>
+      <td> NJIT, Hillier College of Architecture and Design</td>
+      <td> fast learner when it comes to programs<br>Rhino</td>
+      <td> Charismatic </td>
+  </tr>
+    </table>
+</div>
+  </body>
+<div> 
+  <form>
+    <label for="Username">Username</label> <input type="text"> <br>
+    <label for="Username"> First Name</label> <input type="text"> <br> <label for="Username"> Last Name</label> <input type="text"> <br>
+    <label for="Username">Email</label>  <input type="text"> <br>
+                
+    <label for="for"> Checkbox </label> <br>
+    <input type="checkbox"> Architecture
+    <input type="checkbox"> English
+    <input type="checkbox"> Math <br>
+
+    <label for="for"> Radio Buttons </label> <br>
+    <input type="radio" name="Course"> Architecture
+    <input type="radio" name="Course"> English
+    <input type="radio" name="Course"> Math <br>
+
+<input type="submit">
+  </form>
+</div>
+<div>
+  <ul>
+    <li> Arch 110</li>
+    <li> Arch 195</li>
+    <li> CS 104</li>
+    <li> FYS /li>
+    <li> Math 107</li>
+    <li> English 101</li>
+</ul>
+</div>
+    </head>
+</html>
